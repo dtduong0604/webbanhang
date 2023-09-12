@@ -1,2 +1,2 @@
 # webbanhang
-Đây là repo về web bán dụng cụ pha 
+Đây là repo về web bán dụng cụ pha chế
